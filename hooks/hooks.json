@@ -1,0 +1,1 @@
+{"hooks":{"PreToolUse":[{"hooks":[{"command":"python3 \"${CLAUDE_PLUGIN_ROOT}/hooks/pre_write_advice_gate.py\"","timeout":15,"type":"command"}],"matcher":"Write|Edit"}]}}

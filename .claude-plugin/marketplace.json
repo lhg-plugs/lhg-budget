@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"记账预算专家：账单 CSV 一键导入→自动分类→月度报表→预算超支预警，零配置出可视化月报","name":"lhg-budget","source":"./"}]}
